@@ -1,3 +1,4 @@
 - [Gameplay](Gameplay.md)
 - [Conditions](Conditions.md)
 - [Downtime](Downtime.md)
+- [Lingering Injuries](LingeringInjuries.md)
