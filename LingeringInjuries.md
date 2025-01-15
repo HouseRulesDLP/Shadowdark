@@ -3,6 +3,7 @@ These rules replace the Enduring Wounds rules (Cursed Scroll #2, pg 26).
 # Lingering Injuries
 When a player character is reduced to 0 Hit Points or less, there is a chance they will receive a lingering injury.  When the character is revived, they must make a diff 12 CON check.  On a success, no lingering injury is accrued.  On a failure, the character rolls on the lingering injury table.
 
+## Lingering Injuries Table
 | d20   | Injury |
 |:-----:|:-------|
 | 1     | _Amputation:_ Roll 1d6 and consult the table below. This never heals back naturally and can only be healed by regeneration magic.<br/>1-2: _Eye_ – You have **Disadvantage** on all sight-based perception checks and ranged attacks. If both eyes are lost, permanently gain the [Blinded](Conditions.md#Blinded) condition.<br/>3-4: _Arm/Hand_ – You can no longer hold anything in the amputated hand/arm.<br/>5-6: _Leg/Foot_ – Your ground speed is halved and you have disadvantage on DEX checks and lose your DEX bonus to AC (negative DEX is still counted). |
